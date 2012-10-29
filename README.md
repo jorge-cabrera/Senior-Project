@@ -1,4 +1,4 @@
 Senior-Project
 ==============
 
-Senior project documents.
+Here you'll find documents related to senior project.
